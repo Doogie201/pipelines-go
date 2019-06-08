@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/MarcusSmith22/Test%20Project/_apis/build/status/Doogie201.pipelines-go?branchName=master)](https://dev.azure.com/MarcusSmith22/Test%20Project/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
